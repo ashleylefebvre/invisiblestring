@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+html {
+    font-size: 16px;
+    font-family: "Marvel", Arial, sans-serif;
+    background-color: #f6f6f6;
+    color: #4d4d4d;
+    margin: 0 auto;
+}
+.container {
+    max-width: 450px;
+    margin-bottom: 20em;
+}
+#main {
+    margin: 0 2.5em;
+}
+h1{
+    font-size: 50px;
+}
+h2 {
+    font-size: 35px;
+    margin: .3em 1.2em;
+}
+h3 {
+    font-size: 20px;
+    margin: .3em 1.2em;
+}
+.signin {
+    max-width: 300px;
+    padding: 0 3.5em;
+}
+#sign {
+    font: 48px;
+    margin: 0 1.3em;
+}
+img {
+    width: 100%;
+}
+a:link, a:visited {
+    text-decoration: none;
+    color:#289081;
+}
+a:hover, a:focus {
+    font: 18px;
+}
+a#home {
+    color: #4d4d4d;
+}
+li {
+    border-style: solid;
+    border-width: 1px;
+    border-color:#d3d3d3;
+    text-align: center;
+    border-radius: 10px;
+}
+.habit {
+    width: 100%;
+    font-size: 28px;
+    background-color: #f6f6f6;
+    border-radius: 20px;
+}
+.text {
+    border-radius: 8px;
+    margin: .5em 1em;
+    width: 200px;
+    height: 30px;
+    vertical-align: right;
+}
+label {
+    padding: 0 1em;
+    text-align: right;
+}
+.form {
+    margin: 2em 3em;
+    padding: .5em 1em;
+    border-radius: 8px;
+}
+.freq {
+    margin: .5em 0 1em 5em;
+}
+.frequency {
+    margin: .3em 0 .3em 6em;
+}
+footer {
+    margin-top: 10em auto;
+    padding-bottom: 2em;
+    background-color: #289081;
+    color: #f6f6f6;
+    font-size: 18px;
+}
